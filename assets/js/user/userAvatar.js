@@ -12,7 +12,7 @@ $(function() {
     }
 
     // 1.3 创建裁剪区域
-    $image.cropper(options)
+    // $image.cropper(options)
 
     // 为上传按钮绑定点击事件
     $('#btnChooseImage').on('click', function() {
